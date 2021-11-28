@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Planejamento financeiro pessoal",
+      "description": "Neste curso, iremos te mostrar como voc? pode fazer o seu planejamento financeiro para nunca mais",
+      "image": "https://fdr.com.br/wp-content/uploads/2020/04/Screenshot_1-1-1200x861.png",
+      "teacherName": "Joao Silva Costa",
+      "linkAula": "https://www.mobills.com.br/blog/cursos-planejamento-financeiro-pessoal/",
+      "classes": [],
+      "creationDate": 1638124806238
+    },
+    {
+      "id": 2,
+      "title": "Curso de finan�as do Banco Central",
+      "description": "O Curso de Finan�as Pessoais (GFP), oferecido pelo Banco Central do Brasil (BC), � on-line, gratuito, com todo o conte�do apresentado por meio de v�deos animados.",
+      "image": "https://wakke.co/wp-content/uploads/2019/03/escolaweb-imagem-artigos_Como-ter-um-planejamento-financeiro-eficaz-na-sua-escola-1-1.jpg",
+      "teacherName": "Maria Santos",
+      "linkAula": "https://www.ev.org.br/cursos/educacao-financeira",
+      "classes": [],
+      "creationDate": 1638124902147
+    },
+    {
+      "id": 3,
+      "title": "Curso de educa��o financeira do Senai-SP",
+      "description": "Oo curso aponta a import�ncia de alcan�ar o equil�brio financeiro para ser mais motivado, ter tranquilidade e qualidade de vida.",
+      "image": "https://blog.f360.com.br/wp-content/uploads/2016/10/7-dicas-para-voce-fazer-um-bom-planejamento-financeiro-935x614.jpeg",
+      "teacherName": "Luiz Paz",
+      "linkAula": "https://online.sp.senai.br/curso/78402/483/competencia-transversal-financas-pessoais",
+      "classes": [],
+      "creationDate": 1638126040712
+    }
+  ]
+}
